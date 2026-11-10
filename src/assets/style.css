@@ -1,6 +1,9 @@
 :root {
-	--accent: #2d9cdb;
-	--grey: #444;
+	--bg: #f5f4f3;
+	--text: #433737;
+	--accent: #e974af;
+	--accent-2: #b2d039; /* reserved, not used yet */
+	--grey: #8a7d7d; /* muted text, derived from --text */
 }
 
 html {
@@ -11,6 +14,8 @@ html {
 body {
 	font-family: Inter, sans-serif;
 	line-height: 1.65;
+	background-color: var(--bg);
+	color: var(--text);
 
 	display: flex;
 	flex-direction: column;
@@ -55,12 +60,24 @@ main {
 	margin-bottom: 8px;
 }
 
+/* Highlighter-style links: text stays --text, a marker stroke of --accent
+   sits behind the lower part of the word and fills the word on hover. */
 a[href] {
-	color: var(--accent);
+	color: inherit;
+	text-decoration: none;
+	background-image: linear-gradient(transparent 40%, var(--accent) 40%);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	transition: background-image 0.15s ease;
 }
 
 a[href]:hover {
-	text-decoration: none;
+	background-image: linear-gradient(var(--accent), var(--accent));
+}
+
+/* Header nav and the avatar link stay plain */
+.page-header a[href] {
+	background-image: none;
 }
 
 a[href]:focus {
@@ -128,7 +145,7 @@ small {
 	position: absolute;
 	bottom: 8px;
 	left: 100%;
-	background-color: #fff;
+	background-color: var(--bg);
 	border-radius: 4px;
 	padding: 4px;
 	box-shadow: 0 0 4px 2px rgba(0, 0, 0, 0.25);
@@ -140,7 +157,7 @@ small {
 	content: '';
 	position: absolute;
 	bottom: 0;
-	background: linear-gradient(transparent, white);
+	background: linear-gradient(transparent, var(--bg));
 	width: 100%;
 	height: 24px;
 }
