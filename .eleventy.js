@@ -3,7 +3,6 @@ import markdownIt from 'markdown-it';
 import mdAttrs from 'markdown-it-attrs';
 import mdFootnote from 'markdown-it-footnote';
 
-import backlinksPlugin from 'eleventy-plugin-backlinks';
 
 export default function(eleventyConfig) {
 	const markdownItOptions = {
@@ -46,13 +45,11 @@ export default function(eleventyConfig) {
 	// Add id attributes to headings so sections can be deep-linked.
 	eleventyConfig.addPlugin(IdAttributePlugin);
 
-	eleventyConfig.addPlugin(backlinksPlugin, {
-		getData: (note) => ({
-			url: note.url,
-			title: note.data.title,
-			preview: note.data.preview,
-		}),
-	});
+	// Every template under src/notes/. Used by notes.11tydata.js to compute
+	// backlinks.
+	eleventyConfig.addCollection('notes', collection =>
+		collection.getAll().filter(item => item.filePathStem.startsWith('/notes/'))
+	);
 
 	// Drafts: any template with `draft: true` in its front matter is shown
 	// during `--serve`/`--watch` but skipped entirely in a full build.
