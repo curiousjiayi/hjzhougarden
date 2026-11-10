@@ -56,6 +56,7 @@ Check out [the wiki](https://github.com/binyamin/eleventy-garden/wiki) for more 
 - Branding: Add your logo or avatar in `/assets/avatar.png`
 - Content: `/_data/site.json` contains vital information to make the site your own
   - Drop your notes in the `/notes` folder
+  - Drafts: add `draft: true` to a note's front matter to show it only in local development (`npm start`). Drafts are excluded from full builds.
 - Testing: To view it locally, open a terminal and type `npm start`
 
 **Publish it**
