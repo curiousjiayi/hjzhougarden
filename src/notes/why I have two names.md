@@ -1,4 +1,4 @@
-![two names](/assets/two_names.PNG)
+![two names](/assets/two_names.PNG){width=200}
 
 # Why I have two names
 
