@@ -1,3 +1,5 @@
+![two names](/assets/two_names.PNG)
+
 # Why I have two names
 
 For most of my life I have gone by Jiayi. That is my Chinese name. For a brief period in first grade, I decided I wanted a proper English name and told my teacher that from now on I'm going by Jennifer. That lasted all of two days. For a decade and a half afterwards, I was mono-named.
