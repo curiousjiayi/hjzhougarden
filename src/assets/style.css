@@ -1,7 +1,7 @@
 :root {
 	--bg: #f5f4f3;
 	--text: #433737;
-	--accent: #f4b9d6;
+	--accent: #f6cbe0;
 	--accent-2: #b2d039; /* reserved, not used yet */
 	--grey: #8a7d7d; /* muted text, derived from --text */
 }
@@ -66,7 +66,7 @@ main {
 }
 
 /* Highlighter-style links: text stays --text, a marker stroke of --accent
-   sits behind the lower 40% of the word and rises to fill it on hover.
+   sits behind the lower 50% of the word and rises to fill it on hover.
    The stroke is a solid image anchored to the bottom; animating its
    height is what makes the fill rise instead of snapping. */
 a[href] {
@@ -75,7 +75,7 @@ a[href] {
 	background-image: linear-gradient(var(--accent), var(--accent));
 	background-repeat: no-repeat;
 	background-position: 0 100%;
-	background-size: 100% 40%;
+	background-size: 100% 50%;
 	transition: background-size 0.2s ease;
 	/* Give each line of a wrapped link its own stroke */
 	-webkit-box-decoration-break: clone;
@@ -109,7 +109,7 @@ p {
 h1, h2, h3, h4, h5 {
 	margin: 2.75rem 0 1.05rem;
 	font-weight: 400;
-	line-height: 1.15;
+	line-height: 1.2;
 }
 
 h1 {
