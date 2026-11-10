@@ -84,14 +84,14 @@ a[href^="mailto:"] {
 	--stroke: var(--accent-2);
 }
 
-/* Header nav: no stroke at rest, --accent-3 rises to fill on hover */
+/* Header nav: no stroke at rest, --accent-3 rises to a half fill on hover */
 .page-header a[href] {
 	--stroke: var(--accent-3);
 	background-size: 100% 0;
 }
 
 .page-header a[href]:hover {
-	background-size: 100% 100%;
+	background-size: 100% 50%;
 }
 
 /* Outline only for keyboard focus, not after a mouse click */
