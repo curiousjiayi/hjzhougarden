@@ -40,6 +40,19 @@ export default function(eleventyConfig) {
 
 	eleventyConfig.addFilter('encodeURI', string => encodeURI(string));
 
+	// Dates. Front matter like `date: 2026-11-09` is parsed as midnight UTC,
+	// so both filters format in UTC to avoid showing the previous day in
+	// western time zones.
+	const toDate = value => (value instanceof Date ? value : new Date(value));
+	eleventyConfig.addFilter('readableDate', value =>
+		new Intl.DateTimeFormat('en-GB', {
+			day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC',
+		}).format(toDate(value))
+	);
+	eleventyConfig.addFilter('htmlDateString', value =>
+		toDate(value).toISOString().slice(0, 10)
+	);
+
 	eleventyConfig.setLibrary('md', md);
 
 	// Add id attributes to headings so sections can be deep-linked.
