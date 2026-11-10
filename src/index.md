@@ -2,6 +2,11 @@
 layout: default
 ---
 
-# Hi
+# Hello, my name is H.J. Zhou
+(or: Jiayi, or: Hazel). I live in San Francisco with my two wonderful middle-aged budgies Snowy and Banana, and equally wonderful but perhaps less cute husband, David. I am a product manager by day, and at night equal parts a writer, recreational pole dancer, and caretaker of my digital garden (where you stand now). Here I hope you find carrots and flowers and your favourite allium. Please feel free to dig.
 
-I'm John Lemmon. I'm an umpteen year-old developer and musician from Liverpool, England.
+## Long-form essays
+
+## New notes
+
+I'm feeling lucky
