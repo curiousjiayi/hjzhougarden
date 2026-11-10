@@ -1,6 +1,13 @@
 ---
 layout: default
 ---
+{%- if tags.size > 0 or date %}
+<p class="note-meta">
+	{%- for tag in tags %}{{ tag | capitalize }}{% unless forloop.last %}, {% endunless %}{% endfor -%}
+	{%- if date %}{% if tags.size > 0 %} · {% endif %}Published <time datetime="{{ date | htmlDateString }}">{{ date | readableDate }}</time>{% endif -%}
+	{%- if updated %} · Updated <time datetime="{{ updated | htmlDateString }}">{{ updated | readableDate }}</time>{% endif -%}
+</p>
+{%- endif %}
 <article>
 	{{ content }}
 </article>

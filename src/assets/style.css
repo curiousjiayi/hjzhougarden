@@ -139,6 +139,29 @@ small {
 	font-size: 0.8em;
 }
 
+/* note metadata (tags and dates) */
+.note-meta {
+	margin: 2.75rem 0 -2rem;
+	font-size: 0.85em;
+	color: var(--grey);
+}
+
+/* essay list */
+.essaylist {
+	padding-left: 0;
+	list-style: none;
+}
+
+.essaylist li {
+	margin-bottom: 0.5rem;
+}
+
+.essaylist__date {
+	margin-left: 0.5em;
+	font-size: 0.85em;
+	color: var(--grey);
+}
+
 /* backlinks */
 .backlinks-title {
 	margin-bottom: 0;

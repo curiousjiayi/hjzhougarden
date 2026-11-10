@@ -7,6 +7,8 @@ layout: default
 
 ## Long-form essays
 
+{% include 'essaylist.html' %}
+
 ## New notes
 
 I'm feeling lucky

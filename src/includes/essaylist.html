@@ -1,0 +1,11 @@
+{%- assign essays = collections.essay | reverse -%}
+{%- if essays.size > 0 %}
+<ol reversed class="essaylist">
+	{%- for essay in essays %}
+	<li>
+		<a href="{{ essay.url }}">{{ essay.data.title }}</a>
+		<time class="essaylist__date" datetime="{{ essay.date | htmlDateString }}">{{ essay.date | readableDate }}</time>
+	</li>
+	{%- endfor %}
+</ol>
+{%- endif %}
