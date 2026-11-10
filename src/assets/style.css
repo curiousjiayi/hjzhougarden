@@ -1,5 +1,6 @@
 :root {
 	--bg: #f5f4f3;
+	--bg-tint: #f3ecdc; /* warm cream: buttons, text highlights */
 	--text: #433737;
 	--accent: #f6cbe0;
 	--accent-2: #d9e89b; /* external links */
@@ -139,17 +140,30 @@ small {
 	font-size: 0.8em;
 }
 
-/* Button-styled link: bordered pill, --accent rises to fill on hover */
+/* Retro button: double-ring border, cream fill, uppercase label.
+   No hover effect; inverts while pressed, like a classic dialog button.
+   The inner ring is two inset shadows: a 2px ring in the fill color
+   (invisible) followed by a 3px ring in the text color, leaving a 1px
+   line 2px inside the border. */
 a.button {
 	display: inline-block;
-	padding: 0.35em 1em;
-	border: 1.5px solid var(--text);
-	border-radius: 999px;
-	background-size: 100% 0;
+	padding: 0.4em 1.5em;
+	border: 2px solid var(--text);
+	border-radius: 2px;
+	background-color: var(--bg-tint);
+	background-image: none;
+	box-shadow: inset 0 0 0 2px var(--bg-tint), inset 0 0 0 3px var(--text);
+	font-size: 0.8em;
+	font-weight: 700;
+	letter-spacing: 0.08em;
+	text-transform: uppercase;
+	transition: none;
 }
 
-a.button:hover {
-	background-size: 100% 100%;
+a.button:active {
+	background-color: var(--text);
+	color: var(--bg-tint);
+	box-shadow: inset 0 0 0 2px var(--text), inset 0 0 0 3px var(--bg-tint);
 }
 
 /* note metadata (tags and dates) */
