@@ -11,4 +11,4 @@ layout: default
 
 ## New notes
 
-I'm feeling lucky
+{% include 'random-note.html' %}

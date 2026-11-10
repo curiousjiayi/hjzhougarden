@@ -1,0 +1,13 @@
+<a href="/notes/" class="button" id="random-note">I'm feeling lucky</a>
+<script>
+(() => {
+	const notes = [{% for note in collections.notes %}{% unless note.url == '/notes/' %}"{{ note.url }}",{% endunless %}{% endfor %}];
+	const link = document.getElementById('random-note');
+	if (!link || notes.length === 0) return;
+	// Pick on click and let the browser follow the updated href, so
+	// modifier-clicks (new tab) still work.
+	link.addEventListener('click', () => {
+		link.href = notes[Math.floor(Math.random() * notes.length)];
+	});
+})();
+</script>
