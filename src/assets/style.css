@@ -61,7 +61,7 @@ main {
 }
 
 /* Highlighter-style links: text stays --text, a marker stroke of --accent
-   sits behind the lower 60% of the word and rises to fill it on hover.
+   sits behind the lower 20% of the word and rises to fill it on hover.
    The stroke is a solid image anchored to the bottom; animating its
    height is what makes the fill rise instead of snapping. */
 a[href] {
@@ -70,7 +70,7 @@ a[href] {
 	background-image: linear-gradient(var(--accent), var(--accent));
 	background-repeat: no-repeat;
 	background-position: 0 100%;
-	background-size: 100% 60%;
+	background-size: 100% 20%;
 	transition: background-size 0.2s ease;
 	/* Give each line of a wrapped link its own stroke */
 	-webkit-box-decoration-break: clone;
