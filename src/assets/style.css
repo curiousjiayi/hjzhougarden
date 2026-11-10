@@ -139,6 +139,19 @@ small {
 	font-size: 0.8em;
 }
 
+/* Button-styled link: bordered pill, --accent rises to fill on hover */
+a.button {
+	display: inline-block;
+	padding: 0.35em 1em;
+	border: 1.5px solid var(--text);
+	border-radius: 999px;
+	background-size: 100% 0;
+}
+
+a.button:hover {
+	background-size: 100% 100%;
+}
+
 /* note metadata (tags and dates) */
 .note-meta {
 	margin: 2.75rem 0 -2rem;
