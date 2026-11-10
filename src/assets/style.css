@@ -13,16 +13,9 @@ html {
 	scroll-behavior: smooth;
 }
 
-/* Text selection. Browsers paint the selection highlight above every
-   background, including the link highlighter band, so links get a
-   transparent selection: their band stays intact and the tint appears
-   to run beneath it. */
+/* Text selection */
 ::selection {
 	background-color: var(--bg-tint);
-}
-
-a[href]::selection {
-	background-color: transparent;
 }
 
 body {
