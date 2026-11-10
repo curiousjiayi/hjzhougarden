@@ -1,0 +1,12 @@
+{%- assign list = collections.notesByDate -%}
+{%- if limit %}{% assign list = list | slice: 0, limit %}{% endif -%}
+{%- if list.size > 0 %}
+<ol class="noteslist">
+	{%- for note in list %}
+	<li>
+		<a href="{{ note.url }}">{{ note.data.title }}</a>
+		<time class="noteslist__date" datetime="{{ note.date | htmlDateString }}">{{ note.date | readableDate }}</time>
+	</li>
+	{%- endfor %}
+</ol>
+{%- endif %}

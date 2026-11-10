@@ -2,5 +2,6 @@
 	"title": "H.J. Zhou",
 	"desc": "Personal digital garden.",
 	"author": "H.J. Zhou",
-	"baseurl": "https://curiousjiayi.github.io/hjzhougarden"
+	"baseurl": "https://curiousjiayi.github.io/hjzhougarden",
+	"timezone": "America/Los_Angeles"
 }

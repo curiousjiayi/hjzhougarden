@@ -13,4 +13,6 @@ layout: default
 
 ## New notes
 
+{% include 'noteslist.html', limit: 5 %}
+
 {% include 'random-note.html' %}

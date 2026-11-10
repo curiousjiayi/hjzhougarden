@@ -25,6 +25,10 @@ function sameNote(a, b) {
 export default {
 	layout: 'note.html',
 	type: 'note',
+	// A note's date defaults to its first git commit. Front matter `date`
+	// (e.g. on essays) overrides this. Requires full git history at build
+	// time; uncommitted files fall back to the file's creation time.
+	date: 'git Created',
 	eleventyComputed: {
 		title: (data) => {
 			const title = titleCase(data.title || data.page.fileSlug);
