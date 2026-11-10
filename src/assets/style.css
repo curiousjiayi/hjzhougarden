@@ -110,6 +110,14 @@ a[href]:focus-visible {
 	font-size: 0.8em;
 }
 
+/* Images in content: centered, never wider than the column */
+main img {
+	display: block;
+	max-width: 100%;
+	height: auto;
+	margin: 1.5rem auto;
+}
+
 /* Typography */
 p {
 	margin-bottom: 1.15rem;
