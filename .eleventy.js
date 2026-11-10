@@ -34,6 +34,19 @@ export default function(eleventyConfig) {
 			});
 		});
 
+	// Open links that leave the site in a new tab. Same test as the CSS that
+	// colors external links, so the two stay in sync.
+	const defaultLinkOpen = md.renderer.rules.link_open
+		|| ((tokens, idx, options, env, self) => self.renderToken(tokens, idx, options));
+	md.renderer.rules.link_open = (tokens, idx, options, env, self) => {
+		const href = tokens[idx].attrGet('href') || '';
+		if (/^(https?:)?\/\//i.test(href)) {
+			tokens[idx].attrSet('target', '_blank');
+			tokens[idx].attrSet('rel', 'noopener');
+		}
+		return defaultLinkOpen(tokens, idx, options, env, self);
+	};
+
 	eleventyConfig.addFilter('markdownify', string => {
 		return md.render(string);
 	});
