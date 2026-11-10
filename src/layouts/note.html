@@ -4,10 +4,17 @@ layout: default
 {%- if cover %}
 <img class="note-cover" src="{{ cover }}" alt="{{ cover_alt | default: '' }}"{% if cover_width %} width="{{ cover_width }}"{% endif %} />
 {%- endif %}
-{%- if tags.size > 0 or date %}
+{%- comment -%}
+	`date` is the raw front matter value. Notes without one inherit the
+	string "git Created" from notes.11tydata.js, which Eleventy resolves
+	into page.date; only an explicit front matter date counts as "Published".
+{%- endcomment -%}
+{%- assign published = false -%}
+{%- if date and date != 'git Created' %}{% assign published = true %}{% endif -%}
+{%- if tags.size > 0 or published %}
 <p class="note-meta">
 	{%- for tag in tags %}{{ tag | capitalize }}{% unless forloop.last %}, {% endunless %}{% endfor -%}
-	{%- if date %}{% if tags.size > 0 %} · {% endif %}Published <time datetime="{{ date | htmlDateString }}">{{ date | readableDate }}</time>{% endif -%}
+	{%- if published %}{% if tags.size > 0 %} · {% endif %}Published <time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time>{% endif -%}
 	{%- if updated %} · Updated <time datetime="{{ updated | htmlDateString }}">{{ updated | readableDate }}</time>{% endif -%}
 </p>
 {%- endif %}

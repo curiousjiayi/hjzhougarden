@@ -1,3 +1,4 @@
+import { readFileSync } from 'node:fs';
 import { IdAttributePlugin } from '@11ty/eleventy';
 import markdownIt from 'markdown-it';
 import mdAttrs from 'markdown-it-attrs';
@@ -53,18 +54,26 @@ export default function(eleventyConfig) {
 
 	eleventyConfig.addFilter('encodeURI', string => encodeURI(string));
 
-	// Dates. Front matter like `date: 2026-11-09` is parsed as midnight UTC,
-	// so both filters format in UTC to avoid showing the previous day in
-	// western time zones.
+	// Dates. Two kinds reach these filters:
+	// - front matter like `date: 2026-11-09`, parsed as midnight UTC, which
+	//   must be formatted in UTC or it shows as the previous day out west;
+	// - real timestamps (git Created, file times), which should be shown in
+	//   the site's own timezone so an evening commit keeps its local date.
+	// A value at exactly 00:00:00 UTC is treated as the former.
+	const site = JSON.parse(readFileSync('./src/_data/site.json', 'utf8'));
 	const toDate = value => (value instanceof Date ? value : new Date(value));
-	eleventyConfig.addFilter('readableDate', value =>
-		new Intl.DateTimeFormat('en-GB', {
-			day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC',
-		}).format(toDate(value))
-	);
-	eleventyConfig.addFilter('htmlDateString', value =>
-		toDate(value).toISOString().slice(0, 10)
-	);
+	const zoneFor = date =>
+		(date.getUTCHours() | date.getUTCMinutes() | date.getUTCSeconds()) === 0 ? 'UTC' : site.timezone;
+	const ymd = date => new Intl.DateTimeFormat('en-CA', {
+		year: 'numeric', month: '2-digit', day: '2-digit', timeZone: zoneFor(date),
+	}).format(date);
+	eleventyConfig.addFilter('readableDate', value => {
+		const date = toDate(value);
+		return new Intl.DateTimeFormat('en-GB', {
+			day: 'numeric', month: 'long', year: 'numeric', timeZone: zoneFor(date),
+		}).format(date);
+	});
+	eleventyConfig.addFilter('htmlDateString', value => ymd(toDate(value)));
 
 	eleventyConfig.setLibrary('md', md);
 
@@ -75,6 +84,15 @@ export default function(eleventyConfig) {
 	// backlinks.
 	eleventyConfig.addCollection('notes', collection =>
 		collection.getAll().filter(item => item.filePathStem.startsWith('/notes/'))
+	);
+
+	// Notes newest first, excluding the notes index page. Ties (notes added
+	// in the same commit) fall back to title order.
+	eleventyConfig.addCollection('notesByDate', collection =>
+		collection
+			.getAll()
+			.filter(item => item.filePathStem.startsWith('/notes/') && item.url !== '/notes/')
+			.sort((a, b) => (b.date - a.date) || String(a.data.title).localeCompare(String(b.data.title)))
 	);
 
 	// Drafts: any template with `draft: true` in its front matter is shown

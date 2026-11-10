@@ -196,17 +196,20 @@ a.button:active {
 	color: var(--grey);
 }
 
-/* essay list */
-.essaylist {
+/* essay and note lists */
+.essaylist,
+.noteslist {
 	padding-left: 0;
 	list-style: none;
 }
 
-.essaylist li {
+.essaylist li,
+.noteslist li {
 	margin-bottom: 0.5rem;
 }
 
-.essaylist__date {
+.essaylist__date,
+.noteslist__date {
 	margin-left: 0.5em;
 	font-size: 0.85em;
 	color: var(--grey);
