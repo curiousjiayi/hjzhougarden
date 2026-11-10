@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+{%- if cover %}
+<img class="note-cover" src="{{ cover }}" alt="{{ cover_alt | default: '' }}"{% if cover_width %} width="{{ cover_width }}"{% endif %} />
+{%- endif %}
 {%- if tags.size > 0 or date %}
 <p class="note-meta">
 	{%- for tag in tags %}{{ tag | capitalize }}{% unless forloop.last %}, {% endunless %}{% endfor -%}
