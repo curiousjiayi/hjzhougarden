@@ -125,7 +125,7 @@ main img {
 	display: block;
 	max-width: 100%;
 	height: auto;
-	margin: 2.75rem auto 0;
+	margin: 2.5rem auto 0;
 }
 
 /* Typography */
@@ -134,7 +134,7 @@ p {
 }
 
 h1, h2, h3, h4, h5 {
-	margin: 2.75rem 0 1.05rem;
+	margin: 2.5rem 0 1.05rem;
 	font-weight: 400;
 	line-height: 1.2;
 }
