@@ -1,4 +1,8 @@
-![two names](/assets/two_names.PNG){width=200}
+---
+cover: /assets/two_names.PNG
+cover_alt: Pointing mirror guy meme, but with me
+cover_width: 200
+---
 
 # Why I have two names
 
