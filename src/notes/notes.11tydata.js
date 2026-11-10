@@ -4,7 +4,11 @@ export default {
 	layout: 'note.html',
 	type: 'note',
 	eleventyComputed: {
-		title: data => titleCase(data.title || data.page.fileSlug),
+		title: (data) => {
+			const title = titleCase(data.title || data.page.fileSlug);
+
+			return data.draft ? `${title} (draft)` : title;
+		},
 		preview: (data) => {
 			const noteContent = data.page.rawInput;
 

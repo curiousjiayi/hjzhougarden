@@ -40,6 +40,14 @@ export default function(eleventyConfig) {
 		}),
 	});
 
+	// Drafts: any template with `draft: true` in its front matter is shown
+	// during `--serve`/`--watch` but skipped entirely in a full build.
+	eleventyConfig.addPreprocessor('drafts', '*', (data) => {
+		if (data.draft && process.env.ELEVENTY_RUN_MODE === 'build') {
+			return false;
+		}
+	});
+
 	eleventyConfig.addPassthroughCopy('src/assets');
 	eleventyConfig.setUseGitIgnore(false);
 
