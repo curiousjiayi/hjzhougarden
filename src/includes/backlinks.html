@@ -6,6 +6,7 @@
 			<li class="backlink">
 				<a href="{{link.url}}" class="backlink__link">{{ link.title }}</a>
 				<div class="backlink__preview" role="none">
+					<div class="backlink__preview-title">{{ link.title }}</div>
 					{{ link.preview | markdownify }}
 				</div>
 			</li>
