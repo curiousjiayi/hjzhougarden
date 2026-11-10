@@ -1,7 +1,7 @@
 :root {
 	--bg: #f5f4f3;
 	--text: #433737;
-	--accent: #e974af;
+	--accent: #ee95c2;
 	--accent-2: #b2d039; /* reserved, not used yet */
 	--grey: #8a7d7d; /* muted text, derived from --text */
 }
@@ -61,18 +61,24 @@ main {
 }
 
 /* Highlighter-style links: text stays --text, a marker stroke of --accent
-   sits behind the lower part of the word and fills the word on hover. */
+   sits behind the lower 60% of the word and rises to fill it on hover.
+   The stroke is a solid image anchored to the bottom; animating its
+   height is what makes the fill rise instead of snapping. */
 a[href] {
 	color: inherit;
 	text-decoration: none;
-	background-image: linear-gradient(transparent 40%, var(--accent) 40%);
+	background-image: linear-gradient(var(--accent), var(--accent));
 	background-repeat: no-repeat;
-	background-size: 100% 100%;
-	transition: background-image 0.15s ease;
+	background-position: 0 100%;
+	background-size: 100% 60%;
+	transition: background-size 0.2s ease;
+	/* Give each line of a wrapped link its own stroke */
+	-webkit-box-decoration-break: clone;
+	box-decoration-break: clone;
 }
 
 a[href]:hover {
-	background-image: linear-gradient(var(--accent), var(--accent));
+	background-size: 100% 100%;
 }
 
 /* Header nav and the avatar link stay plain */
