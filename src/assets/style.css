@@ -91,7 +91,8 @@ a[href]:hover {
 	background-image: none;
 }
 
-a[href]:focus {
+/* Outline only for keyboard focus, not after a mouse click */
+a[href]:focus-visible {
 	outline: 2px solid var(--accent);
 	outline-offset: 4px;
 }
