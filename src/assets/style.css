@@ -12,6 +12,11 @@ html {
 	scroll-behavior: smooth;
 }
 
+/* Text selection */
+::selection {
+	background-color: var(--bg-tint);
+}
+
 body {
 	font-family: Literata, Georgia, serif;
 	font-optical-sizing: auto;
