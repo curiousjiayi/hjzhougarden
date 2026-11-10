@@ -118,6 +118,16 @@ main img {
 	margin: 1.5rem auto;
 }
 
+/* Note cover image (front matter `cover`, optional `cover_width`).
+   Sits above the kicker and title; top margin matches the title's so the
+   gaps above and below the cover are equal. */
+.note-cover {
+	display: block;
+	max-width: 100%;
+	height: auto;
+	margin: 2.75rem auto 0;
+}
+
 /* Typography */
 p {
 	margin-bottom: 1.15rem;
