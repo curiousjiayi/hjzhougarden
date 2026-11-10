@@ -2,7 +2,7 @@
 	--bg: #f5f4f3;
 	--text: #433737;
 	--accent: #f6cbe0;
-	--accent-2: #b2d039; /* reserved, not used yet */
+	--accent-2: #d9e89b; /* external links */
 	--grey: #8a7d7d; /* muted text, derived from --text */
 }
 
@@ -25,18 +25,11 @@ body {
 	margin: 0 24px;
 }
 
-@media only screen and (max-width: 468px) {
-	.page-header {
-		flex-direction: column;
-	}
-}
-
 .page-header {
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: space-between;
-	align-items: center;
-	margin-top: 8px;
+	max-width: 72ch;
+	width: 100%;
+	margin: 8px auto 0;
+	text-align: center;
 }
 
 .page-header nav a:not(:hover):not(:focus) {
@@ -70,9 +63,10 @@ main {
    The stroke is a solid image anchored to the bottom; animating its
    height is what makes the fill rise instead of snapping. */
 a[href] {
+	--stroke: var(--accent);
 	color: inherit;
 	text-decoration: none;
-	background-image: linear-gradient(var(--accent), var(--accent));
+	background-image: linear-gradient(var(--stroke), var(--stroke));
 	background-repeat: no-repeat;
 	background-position: 0 100%;
 	background-size: 100% 50%;
@@ -86,7 +80,14 @@ a[href]:hover {
 	background-size: 100% 100%;
 }
 
-/* Header nav and the avatar link stay plain */
+/* Links that leave the site use the secondary accent */
+a[href^="http://"],
+a[href^="https://"],
+a[href^="mailto:"] {
+	--stroke: var(--accent-2);
+}
+
+/* Header nav stays plain */
 .page-header a[href] {
 	background-image: none;
 }
