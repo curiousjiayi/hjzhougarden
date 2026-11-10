@@ -1,8 +1,6 @@
 ---
 tags: essay
-date: 2021-10-07
-cover: /assets/social-anxiety-and-me.jpeg
-cover_alt: Impressionist painting of a crow standing in a field while three crows fly in the distance
+date: 2021-10-06
 ---
 # Social Anxiety and Me
 
