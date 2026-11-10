@@ -30,6 +30,8 @@ export default function(eleventyConfig) {
 		return md.render(string);
 	});
 
+	eleventyConfig.addFilter('encodeURI', string => encodeURI(string));
+
 	eleventyConfig.setLibrary('md', md);
 
 	eleventyConfig.addPlugin(backlinksPlugin, {
