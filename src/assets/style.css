@@ -159,6 +159,15 @@ h5, .larger {
 	font-size: 1.25em;
 }
 
+/* Inside notes, every heading steps down one size: the note title takes
+   the h2 size, section headings the h3 size, and so on. Pages outside
+   <article> (home, about) keep the full scale. */
+article h1 { font-size: 2.441em; }
+article h2 { font-size: 1.953em; }
+article h3 { font-size: 1.563em; }
+article h4 { font-size: 1.25em; }
+article h5 { font-size: 1.1em; }
+
 small {
 	font-size: 0.8em;
 }
