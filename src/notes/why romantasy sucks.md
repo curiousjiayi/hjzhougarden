@@ -5,7 +5,7 @@ date: 2025-03-04
 # Why Romantasy Sucks
 
 <figure>
-<img src="/assets/romantasy-trade-offer.jpeg" alt="Ah yes, the romantasy trade offer." width="400" />
+<img src="/assets/romantasy-trade-offer.jpeg" alt="Ah yes, the romantasy trade offer." width="500" />
 <figcaption>Even worse than Donald’s deals</figcaption>
 </figure>
 
@@ -49,7 +49,7 @@ Now, the above two can be forgiven if the sex is good. If I had to be honest, I 
 
 No plot, no character, no sex. If it sucks in all arenas, let’s call romantasy what it is: trash.
 
-Call me a hater and put my name in Urban Dictionary. But hey! Don’t get me wrong – I think there’s *nothing* wrong with trash, and nothing wrong with consuming trash. I’m not hating on romantasy readers who devour these smut books laced with minimal plotlines. No – I’m hating on **those who read romantasy and** ***genuinely believe that they are good books when they are trash.***
+Call me a hater and put my name in Urban Dictionary. But hey! Don’t get me wrong – I think there’s *nothing* wrong with trash, and nothing wrong with consuming trash. I’m not hating on romantasy readers who devour these smut books laced with minimal plotlines. No – I’m hating on those who read romantasy and *genuinely believe that they are good books when they are trash*.
 
 ---
 
@@ -64,7 +64,7 @@ Reality TV is like the nice, humble donut of the trash world. It’s All-America
 How aware are you of the trash you’re consuming?
 
 <figure>
-<img src="/assets/romantasy-consumption-grid.jpeg" alt="Romantasy consumption grid." width="400" />
+<img src="/assets/romantasy-consumption-grid.jpeg" alt="Romantasy consumption grid." width="500" />
 <figcaption>The Consumption Awareness vs. Entertainment Quality grid</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ If you spend your time thinking you’re planting seeds when you’re actually b
 ## Part 3: “Girl, it’s not that deep.”
 
 <figure>
-<img src="/assets/romantasy-slot-machine.jpeg" alt="The bad romantasy slot machine." width="400" />
+<img src="/assets/romantasy-slot-machine.jpeg" alt="The bad romantasy slot machine." width="500" />
 <figcaption>“Ladies and gentleman, another derivative best seller coming your way!”</figcaption>
 </figure>
 
