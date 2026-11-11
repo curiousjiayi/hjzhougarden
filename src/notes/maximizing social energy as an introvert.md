@@ -18,7 +18,7 @@ I started writing this post in 2020. Since then, I’ve continually thought abou
 
 For any given event, my social battery chart looks something like this:
 
-![An introvert's social energy chart over time](/assets/social-energy-chart.jpeg){width:300}
+![An introvert's social energy chart over time](/assets/social-energy-chart.jpeg){width=300}
 
 I think everyone’s social battery chart is distinct. Distinct, but not unique – so it’s possible to find similar models across friends and mentors and adopt working strategies. For me, my social battery chart features two patterns:
 
@@ -32,7 +32,7 @@ Some of my introverted friends don’t seem to have social energy cliffs. Instea
 
 I also found that the number one predictor of how fast my social battery would drain, even more than how many people I knew at the event, was whether the event was activity-based or talking-based. I lasted significantly longer, and sometimes even felt *energized* when participating in an activity-based event - even when it’s inherently extroverted.
 
-![The introvert multiverse](/assets/introvert-multiverse.jpeg){width:300}
+![The introvert multiverse](/assets/introvert-multiverse.jpeg){width=300}
 
 **Being in the right social environment matters because it maximizes your time, energy, and sociability.** All else being equal, your social energy will burn out slower in the right environment (more bang for your buck).
 
@@ -60,7 +60,7 @@ I find that in many cases, I can keep both talking and activity aspects if I *se
 
 I also think having an “escape hatch” is important. Sometimes there’s simply a natural end to an activity; other times, socialization closes need to be preplanned. I’m not saying to lie — it’s best if the escape hatches are honest explanations of why one needs to leave. If all else fails, it pays to learn how to be honest and say “hey, I’m social’ed out, but it was great catching up.”
 
-![Escape hatches from social events](/assets/escape-hatches.jpeg){width:400}
+![Escape hatches from social events](/assets/escape-hatches.jpeg){width=400}
 
 Strategies might have to change between locations and groups of people. For example, the strategies I used in San Francisco weren’t efficient for New York, where it was easy for hangouts to bleed into each other without a natural end.
 
