@@ -5,7 +5,7 @@ date: 2025-03-04
 # Why Romantasy Sucks
 
 <figure>
-<img src="/assets/romantasy-trade-offer.jpeg" alt="Hand-drawn comic of a smirking long-haired man steepling his fingers under a “Trade offer” banner: I receive expectations of a fantastical world and a heartthrob romance; you receive shit sex scenes and a dry vagina" />
+<img src="/assets/romantasy-trade-offer.jpeg" alt="Ah yes, the romantasy trade offer." width="400" />
 <figcaption>Even worse than Donald’s deals</figcaption>
 </figure>
 
@@ -64,7 +64,7 @@ Reality TV is like the nice, humble donut of the trash world. It’s All-America
 How aware are you of the trash you’re consuming?
 
 <figure>
-<img src="/assets/romantasy-consumption-grid.jpeg" alt="Hand-drawn two-by-two grid. Columns: trash, valuable. Rows: cognizant, mindless. Quadrant I the gardener, II the guilty pleasure, III the brainrot, IV the glutton" />
+<img src="/assets/romantasy-consumption-grid.jpeg" alt="Romantasy consumption grid." width="400" />
 <figcaption>The Consumption Awareness vs. Entertainment Quality grid</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ If you spend your time thinking you’re planting seeds when you’re actually b
 ## Part 3: “Girl, it’s not that deep.”
 
 <figure>
-<img src="/assets/romantasy-slot-machine.jpeg" alt="Hand-drawn slot machine labelled “Create your romantasy!” with three reels of icons reading “A [storm, crown, music] of [fire, snake, knife] and [blood, dagger, rose]”" />
+<img src="/assets/romantasy-slot-machine.jpeg" alt="The bad romantasy slot machine." width="400" />
 <figcaption>“Ladies and gentleman, another derivative best seller coming your way!”</figcaption>
 </figure>
 
