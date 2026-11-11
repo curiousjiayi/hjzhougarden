@@ -12,6 +12,6 @@ This changed in my junior year of college. When I started going to career fairs,
 
 In my twenties I used Jiayi and Hazel as the situation called for it. Coworkers knew me by Hazel; when they became good friends, I asked them to call me Jiayi. Occasionally, I faced awkward situations–sometimes I would tell a new acquaintance that my name is Hazel, sure that it was a one-time encounter, but as they unexpectedly became close friends I would have to backtrack. 
 
-When I started writing, I wanted to marry my two names together. Neither Hazel nor Jiayi encapsulated fully who I am (also, it is still hard to remember Jiayi, and marketability is a real thing for all careers). So I smushed the two: H.J. Zhou, following a trend of two-letter acronym names. Unfortunately, instead of reducing my two names down to one as I intended, I now just have three to contend with, and occasionally four when writers quote me solely by my last name, "Zhou".
+When I started writing, I wanted to marry my two names together. Neither Hazel nor Jiayi encapsulated fully who I am (also, it is still hard to remember Jiayi, and marketability is a real thing for all careers). So I smushed the two: H.J. Zhou, following a trend of two-letter acronym names. Unfortunately, instead of reducing my two names down to one as I intended, I now have three to contend with, and occasionally four when writers quote me solely by my last name, "Zhou".
 
 Anyways, that's why I have two names. I think I'll have two names for the foreseeable future. Identity is a difficult and multifaceted thing.
