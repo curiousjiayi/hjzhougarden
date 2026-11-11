@@ -109,10 +109,10 @@ Me personally, I’ll stick with Literotica/AO3/Wattpad for my text pornography.
 
 **Ending comments**
 
-All illustrations here are drawn by me! If you want to see more subpar comics, my Instagram is [@techadoodledo](http://instagram.com/techadoodledo)
+All illustrations here are drawn by me!
 
 I would like to take a moment to thank my new patron saint,
 
 <figure>
-<img src="/assets/romantasy-kendrick.jpeg" alt="Kendrick Lamar performing at the Super Bowl halftime show, walking with a microphone in a blue varsity jacket and flared jeans" />
+<img src="/assets/romantasy-kendrick.jpeg" alt="Kendrick Lamar performing at the Super Bowl halftime show, walking with a microphone in a blue varsity jacket and flared jeans" width="200"/>
 </figure>
