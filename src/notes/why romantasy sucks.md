@@ -26,17 +26,13 @@ Now, I’m far from a good capitalist – but even I recognize a bad trade when 
 There are a few staples of the fantasy genre (or just any good genre fiction):
 
 1. Involved, engaging plotlines
-
 2. Complex character development
-
 3. Philosophical or social insight
 
 It’s a pleasant surprise when a romantasy novel hits any of the above, but it’s not fair to dock points when it doesn’t. We’re here for romantasy’s main selling points:
 
 1. A mysterious, brooding, and morally gray main male lead
-
 2. A strong, independent self-insert female lead
-
 3. Good sex
 
 And if that’s what we get, then honestly, I’m happy! Here’s the problem: romantasy never delivers.
