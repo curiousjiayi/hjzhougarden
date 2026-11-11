@@ -9,7 +9,7 @@
 }
 
 html {
-	font-size: 100%;
+	font-size: 106.25%; /* 17px. Everything else is sized in em/rem/ch, so the whole page scales with this. */
 	scroll-behavior: smooth;
 }
 
