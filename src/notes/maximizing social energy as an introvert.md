@@ -23,7 +23,6 @@ For any given event, my social battery chart looks something like this:
 I think everyone’s social battery chart is distinct. Distinct, but not unique – so it’s possible to find similar models across friends and mentors and adopt working strategies. For me, my social battery chart features two patterns:
 
 1. Dramatically different drainage depending on talking vs. doing activities, and
-
 2. A significant dropoff at the tail end (the “cliff”)
 
 The cliff was what Patrick noticed at the end of our book club. I started paying attention to my battery levels after he pointed it out, and found that I always had a “cliff” no matter the social event type or length of time, and that it was always better to politely recuse myself from the social situation *before* I fall off the edge of the cliff than after.
@@ -45,15 +44,12 @@ I think it’s worthwhile for every introvert to sit down and identify their soc
 Knowing how your battery drains is the first step to understanding how to maximize its lifespan. For my case, this manifested in two learnings. I wanted to:
 
 1. Manipulate my social calendar to my advantage, and
-
 2. Have pre-planned escape hatches.
 
 Like most introverts, I feel a level of obligation towards certain events and people. What helped most for me was: 1. building the strength to decline without FOMO (still a struggle for me), and 2. rebuilding social events to be advantageous to my battery. Example variations I sometimes make to orient catchups towards activity:
 
 - **Works alright:** Grabbing dinner at a restaurant → **Works better:** Making dinner together
-
 - **Works alright:** Catching up at home → **Works better:** Board games at home
-
 - **Works alright:** Happy hour at the end of work summit → **Works better:** Escape room at the end of work summit
 
 I find that in many cases, I can keep both talking and activity aspects if I *sequence* it correctly. Going from activity → talking (ex. dance class → dinner after) promotes much greater connection than the other way around.
@@ -73,15 +69,10 @@ Also, despite your best efforts, you probably won’t get to full battery optimi
 My social battery is probably different from your social battery. There’s many axes of consideration for social environments, but there are bound to be one or two that are most impactful for you. A few to get you thinking:
 
 - Groups or one-on-ones?
-
 - Talking-based activities or action-based activities?
-
 - Familiar or foreign environments?
-
 - In person or over a social media/web-based forum?
-
 - Hosting or attending?
-
 - What about the ratio of people you know to people you don’t know?
 
 As a result, your methods of adapting to your social battery are probably different from mine. Maybe you optimize for hosting dinner parties, realizing that hosting affords you the greatest control over who you interact with and what the group does. Maybe you try to find a small group to wind down with every event, knowing that tapering down together will help you with the natural end to your energy.
