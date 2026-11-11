@@ -76,7 +76,7 @@ I think it’s healthy to occasionally slip from Quadrant I to **Quadrant II**. 
 
 Do you enjoy reality TV? If you don’t, ask a friend why they do. Answers are usually versions of the following, accompanied by a self-deprecating laugh: “I mean, everyone on the cast is stupid, and the drama’s overblown, and it’s ridiculous, but it’s nice to just turn my brain off.” Over half a decade with our favourite entertainment format leaves us with no doubt that we operate in Quadrants II and III when we watch TV. The reality TV enjoyer is genuine because he or she accepts the mediocre form of media as it is and embraces it with *no further pretense.* There’s a refreshing sincerity about indulging in foolishness and embracing the absurdity of manufactured drama.
 
-**But if you’re spending a lot of time in Quadrant III while thinking you’re in Quadrant IV or worse,** ***Quadrant I*****, you’re in a lot of trouble.**
+**But if you’re spending a lot of time in Quadrant III while thinking you’re in Quadrant IV or worse, *Quadrant I*, you’re in a lot of trouble.**
 
 Ask a romantasy reader why they love their books, and you’ll get a poetic defense of escapism and intricate world-building. They’re fooled by the idea that “reading is good”, forgetting that a book is nothing but – and only as good as – its ideas. The occasional cognizant few are drowned by the wave of #booktok videos that bow at the altar of flat writing. *Even the sex is bad!* Somehow, romantasy managed to reduce a profoundly human experience – one that can stretch anywhere from being a meeting of souls to a passionate, physical explosion – to linguistic dust.
 
