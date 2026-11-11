@@ -14,7 +14,7 @@ In my great fortune, this was the first time I’ve needed to confront mortality
 
 ## My last year at Uber
 
-![Watercolor sketch of an Uber employee badge on a retractable reel, with a faded photo of a face](/assets/leaving-uber-badge.jpeg)
+![My Uber employee badge](/assets/leaving-uber-badge.jpeg)
 
 I spent five and a half years at Uber, during which I was a part of five teams. I transitioned into PM, was re-orged once, was promoted once, and switched teams twice. By the time I quit, I had quadrupled my total compensation. I worked on everything spanning platform, model-based pricing, internal tooling, and consumer/business product. Objectively, it’s been a great journey. Subjectively, I wondered if there was something wrong with me that I wanted to try something new every year. Or if there was something wrong with Uber. Or both.
 
@@ -79,7 +79,7 @@ After a decade of work, I suppose it’s not so bad to take a breather. Even if 
 
 Derek asked me why I chose Substack over Medium, and I had to think about my answer a bit because Medium wasn’t even a choice in my mind. Over the past year, Substack has somehow become *the* place I go to for fresh, diverse, and thoughtful short-to-medium-length material:
 
-![Text message screenshot. A friend asks why I publish on Substack rather than Medium. I reply with three reasons: a respected coworker recommended Substack and its community values long-form writing and debate; the material on Medium rarely impresses me while Substack often does; and Medium’s paywall design is jarring while Substack’s is better.](/assets/leaving-substack-vs-medium.jpeg)
+![Substack over Medium](/assets/leaving-substack-vs-medium.jpeg)
 
 Anyways, I want to share some great articles I've read on Substack recently:
 
