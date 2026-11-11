@@ -14,7 +14,7 @@ In my great fortune, this was the first time I’ve needed to confront mortality
 
 ## My last year at Uber
 
-![My Uber employee badge](/assets/leaving-uber-badge.jpeg)
+![My Uber employee badge](/assets/leaving-uber-badge.jpeg){width=350}
 
 I spent five and a half years at Uber, during which I was a part of five teams. I transitioned into PM, was re-orged once, was promoted once, and switched teams twice. By the time I quit, I had quadrupled my total compensation. I worked on everything spanning platform, model-based pricing, internal tooling, and consumer/business product. Objectively, it’s been a great journey. Subjectively, I wondered if there was something wrong with me that I wanted to try something new every year. Or if there was something wrong with Uber. Or both.
 
