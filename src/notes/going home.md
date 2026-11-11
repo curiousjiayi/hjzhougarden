@@ -5,7 +5,7 @@ date: 2023-09-07
 # Going Home
 
 <figure>
-<img src="/assets/going-home-dim-sum.jpeg" alt="A table of dim sum: bamboo steamers of shumai, rice rolls, and tripe, with a plate of roast goose" />{width=350}
+<img src="/assets/going-home-dim-sum.jpeg" alt="A table of dim sum: bamboo steamers of shumai, rice rolls, and tripe, with a plate of roast goose" width="400"/>
 <figcaption>First and most important stop: dim sum.</figcaption>
 </figure>
 
