@@ -1,3 +1,7 @@
+---
+cover: /assets/Banana.PNG
+---
+
 # Banana
 
 Placeholder text: replace me. Banana is the other half of the pair with [[snowy]].
