@@ -1,5 +1,6 @@
 ---
 title: Carrot
+cover: /assets/carrot.PNG
 ---
 
 # Carrot
