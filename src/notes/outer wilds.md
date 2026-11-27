@@ -22,6 +22,7 @@ You will not like this game if you:
 - **Don't like to waste your time.** There are a lot of runs that can be described objectively as "a waste of time", and metaphorically as "making peace with endings."
 - **Don't like puzzle games.** People shy away from describing Outer Wilds because they don't want to box such an expansive game into labels. While I agree with that, Outer Wilds is at its core a narrative-driven puzzle game. It might not be a traditional puzzle, but if you don't like solving mysteries, you won't like Outer Wilds. 
 
+---
 
 <p align=center>
 <b>❗ Spoilers ahead ❗</b>
