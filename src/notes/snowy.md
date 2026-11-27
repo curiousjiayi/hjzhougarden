@@ -12,16 +12,16 @@ Snowy is one of my two small parrots; the other is [[Banana]].
 - Favourite veggie: Cilantro (first vegetable he ate, after we stuffed it into the holes of the wooden blocks of his favourite toy)
 - Known tricks:
 	- Step-up
- - Spin
- - Tunnel
- - Upside down
- - Fetch (paperclip)
+ 	- Spin
+  - Tunnel
+  - Upside down
+  - Fetch (paperclip)
 - Known sayings:
- - Step up
- - Watcha doing
- - Baby bird
- - Snowy
- - Banana (regressed)
- - Various demonic mumblings
+	- Step up
+ 	- Watcha doing
+ 	- Baby bird
+ 	- Snowy
+ 	- Banana (regressed)
+ 	- Various demonic mumblings
 
 Feeding notes live under [[taking care of small parrots#Diet]].
