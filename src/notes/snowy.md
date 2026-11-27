@@ -6,6 +6,8 @@ cover: /assets/Snowy.PNG
 
 Snowy is one of my two small parrots; the other is [[banana|Banana]].
 
+---
+
 ## Tidbits
 - **Gotcha day:** December 21st, 2020 (Covid baby)
 - **Favourite toy:** Wooden blocks with small round bell at the end
