@@ -12,14 +12,8 @@ Please play this game. I think everybody should give it a fair try at least once
 
 You will like this game if you:
 - **Want to be rewarded for your curiosity and courage.** You know when you talk to kids and they ask: "Why? And then? How? What happened after that?" Outer Wilds is a game where you ask a sequence of these questions one after the other and they lead you to joyous, gut-wrenching, existential, peaceful answers.
-- **Like the logical process of traversing knowledge graphs.** Progress in Outer Wilds is made solely in terms of what you know. So at first, every piece of information you collect lives as an isolated node, which can feel confusing and disconnected; but the first time you connect an edge between two nodes, the first time you build that first 
-- **Like story-rich games.** 
-
-- **Like to randomly burst into tears the morning after finishing the game. ** Just kidding! (not really). 
-- Outer Wilds is massively entertaining and whimsical but 
-
-- There's a logical process to 
-- 
+- **Like the logical process of traversing knowledge graphs.** Progress in Outer Wilds is made solely in terms of what you know. At first every piece of information you collect lives as an isolated node, which can feel confusing and disconnected; but the first moment you connect an edge between two nodes, a spark lights up and never leaves. Outer Wilds never gives you overt goals, but I wouldn't call it a directionless game. There is _always_ something to figure out, and this game suits players _______
+- **Want to be impacted by the games you play.** If you like story-rich games, Outer Wilds is one of the best games you can play. If you like randomly bursting into tears at 10AM the morning after finishing the game, even better!
 
 You will not like this game if you:
 - **Need linear progression and upgrades.** There are no skill trees, upgrades, levels, items, or any other markers of progress in Outer Wilds. The only progression made is in _knowledge_. If you know the story and know how to execute it, you could complete the game in less than fifteen minutes (but of course this is not the point of the game). The progression is the friends we made along the way, literally.
@@ -35,3 +29,4 @@ You will not like this game if you:
 - Blasting from volcano hole to volcano hole in Timber Hearth. "Ohh my god it's little tadpole Hearthians!" I would say, right as I get sucked up by superheated waters and farted into the sky just to come tumbling down into the shaft of another volcano.
 - Auto-piloting into the Sun, rebirthing, and immediately autopiloting into the Sun again (a rite of passage).
 - Cursing my sweaty, fumbling fingers as I frantically right myself in the T**** of Q****** K******** only to overshoot and miss the keyhole for the scroll and that blasted ending song grows louder and louder and louder
+- Opening the door of the Shrine at the S**** L******* on the Q****** M*** and gripping my controller as I saw the road unfold in front of me. Meeting S******. I was losing it.
