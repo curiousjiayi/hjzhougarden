@@ -13,7 +13,8 @@ Please play this game. I think everybody should give it a fair try at least once
 You will like this game if you:
 - **Want to be rewarded for your curiosity and courage.** You know when you talk to kids and they ask: "Why? And then? How? What happened after that?" Outer Wilds is a game where you ask a sequence of these questions one after the other and they lead you to joyous, gut-wrenching, existential, peaceful answers.
 - **Like the logical process of traversing knowledge graphs.** Progress in Outer Wilds is made solely in terms of what you know. At first every piece of information you collect lives as an isolated node, which can feel confusing and disconnected; but the first moment you connect an edge between two nodes, a spark lights up and never leaves. Outer Wilds never gives you overt goals, but I wouldn't call it a directionless game. At every point there is _always_ something big to figure out, and this game suits players who like to find those unspoken gravity wells.
-- **Want to be impacted by the games you play.** If you like story-rich games, Outer Wilds is one of the best games you can play. If you like randomly bursting into tears at 10AM the morning after finishing the game, even better!
+- **Want to be impacted by the games you play.** If you like story-rich games, Outer Wilds is one of the best games you can play. If you like randomly bursting into tears at 10AM the morning after finishing a game, even better!
+
 
 You will not like this game if you:
 - **Need linear progression and upgrades.** There are no skill trees, upgrades, levels, items, or any other markers of progress in Outer Wilds. The only progression made is in _knowledge_. If you know the story and know how to execute it, you could complete the game in less than fifteen minutes (but of course this is not the point of the game). The progression is the friends we made along the way, literally.
