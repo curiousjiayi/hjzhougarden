@@ -6,6 +6,9 @@
 	--accent-2: #d9e89b; /* external links */
 	--accent-3: #B2DFED; /* nav links */
 	--grey: #8a7d7d; /* muted text, derived from --text */
+	/* dividers */
+	--dinkus: "⁂";
+	--dinkus-backlinks: "❦";
 }
 
 html {
@@ -310,4 +313,28 @@ a.button:active {
 		width: auto;
 		margin: 8px 0 12px;
 	}
+}
+
+/* Dinkus dividers: replace the default horizontal rule with the text in
+   --dinkus (or --dinkus-backlinks for the rule above the backlinks). */
+hr {
+	border: none;
+	height: auto;
+	margin: 2em 0;
+	text-align: center;
+	color: var(--grey);
+}
+
+hr::after {
+	content: var(--dinkus);
+	font-size: 1.6em;
+	line-height: 1;
+	letter-spacing: 0.5em;
+	/* letter-spacing also adds space after the last character; pull it
+	   back so a multi-character dinkus like "* * *" stays centered. */
+	margin-right: -0.5em;
+}
+
+hr.backlinks-divider::after {
+	content: var(--dinkus-backlinks);
 }
