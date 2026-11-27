@@ -1,5 +1,5 @@
 ---
-/assets/outer_wilds.PNG
+cover: /assets/outer_wilds.PNG
 ---
 
 # Outer Wilds
