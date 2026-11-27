@@ -8,6 +8,8 @@ Banana is one of my two parrots. When he came to us, Banana was clipped and frig
 
 Over time Banana grew into himself. He has become a great flier, even better than Snowy (often giving David and I heart attacks when he darts into the bathroom as the door is closing); he found his favourite objects (feet, anything reflective); and while he's still a bit of a scaredy-cat, he now stands his ground when I prod him to pick a different sleeping branch at night.
 
+---
+
 ## Tidbits
 - **Gotcha day:** mid-June, 2021
 - **Favourite toy:** For a while it was a miniature blue Converse shoe. Now he likes anything that's shiny so he can regurgitate on it.
