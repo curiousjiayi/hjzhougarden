@@ -4,18 +4,20 @@ cover: /assets/outer_wilds.PNG
 
 # Outer Wilds
 
-It's hard to explain why I love Outer Wilds without spoiling the game. In fact, knowing nearly anything about the game spoils the game. Even Redditors, famed for their disregard of other humans, refuse to say anything to a potential player other than "you can only play this game once, just give it a try."
+It's hard to explain why I love Outer Wilds without spoiling the game. In fact, knowing nearly anything about the game spoils the game. Even Redditors, famed for their disregard of other humans, refuse to say anything to a potential player other than "you can only play this game once, just do it."
 
-Please just play this game. I think everybody should give it a fair try at least once (3-5 hours of gameplay). But I know that there are a wide variety of gamers, so here are some factors that can guide whether you pick up the game or not:
+Please play this game. I think everybody should give it a fair try at least once (3-5 hours of gameplay). But I know that there are a wide variety of gamers, so here are some factors that can guide whether you pick up the game or not:
 
 ### Reasons you should vs. shouldn't play Outer Wilds
 
 You will like this game if you:
-- **Want to be rewarded for your curiosity.** You know when you talk to kids and they ask: "Why? And then? How? What happened after that?" Outer Wilds is a game where you ask a sequence of these questions one after the other and they lead you to joyous, gut-wrenching, existential, peaceful answers.
-- **Like **
+- **Want to be rewarded for your curiosity and courage.** You know when you talk to kids and they ask: "Why? And then? How? What happened after that?" Outer Wilds is a game where you ask a sequence of these questions one after the other and they lead you to joyous, gut-wrenching, existential, peaceful answers.
+- **Like the logical process of traversing knowledge graphs.** Progress in Outer Wilds is made solely in terms of what you know. So at first, every piece of information you collect lives as an isolated node, which can feel confusing and disconnected; but the first time you connect an edge between two nodes, the first time you build that first 
+- **Like story-rich games.** 
 
-- 
-- The first run I made it into space, I Got manhandled by the O****** S**** P****, crashed into the ocean, and stared at the massive water tornadoes while treading water until I died. 
+- **Like to randomly burst into tears the morning after finishing the game. ** Just kidding! (not really). 
+- Outer Wilds is massively entertaining and whimsical but 
+
 - There's a logical process to 
 - 
 
@@ -29,9 +31,7 @@ You will not like this game if you:
 **Spoilers ahead**
 
 #### My favourite moments
-
-I loved:
-- Launching into space in my first run and knowing nothing choosing, of course, the largest planet in the solar system to explore. While I sat in orbit, observing the gassy giant below, the Orbital Space Probe crashed into me and sent me crashing into the waters below.
-- Blasting from volcano hole to volcano hole in Timber Hearth, going from superheated waters to fumbling in the sky
-- Auto-piloting into the Sun, rebirthing, and immediately autopiloting into the Sun again (a rite of passage)
+- The first run I made it into space, in which I decided to visit Giant's Deep (gotta go to the biggest planet in the solar system, obviously), sat in orbit around the planet wondering where I should land, got surprise manhandled by the O****** S**** P****, crashed into the ocean, and stared at the massive water tornadoes while treading water until I died. 
+- Blasting from volcano hole to volcano hole in Timber Hearth. "Ohh my god it's little tadpole Hearthians!" I would say, right as I get sucked up by superheated waters and farted into the sky just to come tumbling down into the shaft of another volcano.
+- Auto-piloting into the Sun, rebirthing, and immediately autopiloting into the Sun again (a rite of passage).
 - Cursing my sweaty, fumbling fingers as I frantically right myself in the T**** of Q****** K******** only to overshoot and miss the keyhole for the scroll and that blasted ending song grows louder and louder and louder
