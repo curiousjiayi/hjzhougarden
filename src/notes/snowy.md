@@ -4,7 +4,7 @@ cover: /assets/Snowy.PNG
 
 # Snowy
 
-Snowy is one of my two small parrots; the other is [[Banana]].
+Snowy is one of my two small parrots; the other is [[Banana|banana]].
 
 ## Tidbits
 - **Gotcha day:** December 21st, 2020 (Covid baby)
