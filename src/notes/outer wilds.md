@@ -8,6 +8,8 @@ It's hard to explain why I love Outer Wilds without spoiling the game. In fact, 
 
 I love Outer Wilds, and I think everybody should give it a fair try at least once (3-5 hours of gameplay). But I know that there are a wide variety of gamers, so here are some factors that can guide whether you pick up the game or not:
 
+---
+
 ## Reasons you should vs. shouldn't play Outer Wilds
 
 You will like this game if you:
@@ -24,6 +26,8 @@ You will not like this game if you:
 <p align=center>
 <b>❗ Spoilers ahead ❗</b>
 <br>Don't read further if you plan to play the game!</p>
+
+---
 
 ## My favourite moments
 - The first run I made it into space, in which I decided to visit Giant's Deep (gotta go to the biggest planet in the solar system, obviously), sat in orbit around the planet wondering where I should land, got surprise manhandled by the O****** S**** P****, crashed into the ocean, and stared at the massive water tornadoes while treading water until I died.
