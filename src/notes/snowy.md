@@ -16,7 +16,7 @@ Snowy is one of my two small parrots; the other is [[Banana]].
   - Tunnel
   - Upside down
   - Fetch (paperclip)
-  - Touch (chopstick, pointer training)
+  - Touch (chopstick, target training)
 - **Known sayings:**
 	- Step up
  	- Watcha doing
