@@ -8,7 +8,7 @@ It's hard to explain why I love Outer Wilds without spoiling the game. In fact, 
 
 
 
-You will like this game if you:
+### You will like this game if you:
 - **Want to be rewarded for your curiosity.** You know when you talk to kids and they ask: "Why? And then? How? What happened after that?" Outer Wilds is a game where you ask a sequence of these questions one after the other and they lead you to joyous, gut-wrenching, existential, peaceful answers.
 - 
 
