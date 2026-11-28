@@ -26,13 +26,14 @@ I believe that with flight training, there is no reason to clip your bird's wing
 
 ## II. Short flights
 
-1. With your bird on your cage or on a stand, ask them to step up.
-2. After they're familiar with step-up, simply step farther back and ask them to fly to you. To start a forearm width's away is approachable.
-3. If they are hesitant, you can:
+1. Flight training is best done in a room they're familiar with, and without major collision objects (e.g. windows, pillars) and tall landing spots.
+2. With your bird on your cage or on a stand, ask them to step up.
+3. After they're familiar with step-up, simply step farther back and ask them to fly to you. To start a forearm width's away is approachable.
+4. If they are hesitant, you can:
 	- Show millet by your finger
-  - If pointer trained (e.g. with a chopstick), show the pointer
-4. Start moving farther away
-5. Train short flights 
+ 	- If pointer trained (e.g. with a chopstick), show the pointer
+5. Start moving farther away
+6. Train short flights 
 
 --- 
 
