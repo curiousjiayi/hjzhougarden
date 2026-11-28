@@ -1,10 +1,10 @@
 # Taking Care of Small Parrots
 
-Placeholder text: replace me. This note is a hub for everything about living with [[snowy]] and [[banana]].
+Hub for everything about [[snowy|Snowy]], [[banana|Banana]], and small birds.
 
-## Daily Routine
+## How-to's
 
-Placeholder text: replace me.
+- [[flight training small birds]]
 
 ## Diet
 
