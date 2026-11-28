@@ -38,4 +38,9 @@ I believe that with flight training, there is no reason to clip your bird's wing
 
 ## III. Make sure your bird knows how to descend
 
-Flying down is a scary thing for a bird that 
+Flying down is a scary thing for a bird that hasn't tried it before. If your bird ever accidentally gets outside, they will likely fly to a tree. Training recall from a high spot (like a tree branch) to a lower spot (like you frantically standing on the ground beckoning at your bird to come down) can save your bird's life.
+
+1. Free-flighted birds will pick tall spots around the home, so you'll have plenty of opportunity to practice. Otherwise, pick a room with a curtain rod.
+2. Ask them to fly from the high spot to you.
+3. If they don't (which they probably won't), grab a chair and stand on the chair. Ask them to fly down a short amount to you, using all the millet rewards etc. from the above steps.
+4. Eventually, go lower until you're on the ground. Repeat high-low recall training over several days until your bird is super comfortable descending.
