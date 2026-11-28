@@ -6,7 +6,7 @@ Flight training small birds is straightforward but requires patience. There are 
 2. You are big and scary, and hence need to project trust.
 3. Learning what this big scary hairless animal wants you to do via interspecies charades is hard, so have some empathy.
 
-These are the steps that I used to train my two budgies for flight and recall.
+I believe that with flight training, there is no reason to clip your bird's wings. These are the steps that I used to train my two budgies for flight and recall.
 
 ---
 
@@ -19,6 +19,8 @@ These are the steps that I used to train my two budgies for flight and recall.
 5. Move the millet farther away so they have to put a leg on your finger to reach it.
 6. Move the millet farther away so they have to step on your finger fully.
 7. Give them enthusiastic praise, like "good bird!"
+8. Once they are used to stepping onto your finger, put the millet away. Offer them a finger first, and then once they step up praise them enthusiastically and give them millet. This associates stepping up with rewards.
+9. Bonus: you can **clicker train** at this stage. When they step up, press a clicker (or make a clicking sound with your mouth, which is what I do). This serves as a "mission accomplished" signal with your bird so they have a definitive indicator that they did what you wanted them to do.
 
 ---
 
