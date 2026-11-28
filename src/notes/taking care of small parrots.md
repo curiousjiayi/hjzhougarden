@@ -4,7 +4,7 @@ Hub for everything about [[snowy|Snowy]], [[banana|Banana]], and small birds.
 
 ## How-to's
 
-- [[flight training small birds]]
+- [[flight training small birds|Flight training small birds]]
 
 ## Diet
 
